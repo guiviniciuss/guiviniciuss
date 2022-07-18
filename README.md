@@ -1,7 +1,7 @@
 <h2>Hey, welcome to my profile! I'm Guilherme Vinícius! I'm studying Information Technology and Web Development!</h2> 
 
 
-<img align="right" heigth="130em" src="https://user-images.githubusercontent.com/104612387/173539756-663d7056-27a7-44ba-904b-62939196c01c.gif"><br>
+<img align="right" heigth="120em" src="https://user-images.githubusercontent.com/104612387/173539756-663d7056-27a7-44ba-904b-62939196c01c.gif"><br>
 
 <!-- Só para salvar por enquanto ![fantastic_mr_fox](https://user-images.githubusercontent.com/104612387/173539756-663d7056-27a7-44ba-904b-62939196c01c.gif)-->
 
@@ -21,9 +21,9 @@
 <div align="center">
   <a href="https://github.com/guiviniciuss">
   
-  <img align="left" height="151em" src="https://github-readme-stats.vercel.app/api?username=guiviniciuss&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img align="left" height="141em" src="https://github-readme-stats.vercel.app/api?username=guiviniciuss&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   
-  <img align="" height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiviniciuss&layout=compact&langs_count=7&theme=darcula"/>
+  <img align="" height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiviniciuss&layout=compact&langs_count=7&theme=darcula"/>
   
   </a>
 </div>
