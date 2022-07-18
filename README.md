@@ -1,7 +1,10 @@
 <h2>Hey, welcome to my profile! I'm Guilherme Vinícius! I'm studying Information Technology and Web Development!</h2> 
 
 
-<img align="right" heigth="120em" src="https://user-images.githubusercontent.com/104612387/173539756-663d7056-27a7-44ba-904b-62939196c01c.gif"><br>
+<img align="right" heigth="1300em" src="https://user-images.githubusercontent.com/104612387/173539756-663d7056-27a7-44ba-904b-62939196c01c.gif">
+
+<br>
+<br>
 
 <!-- Só para salvar por enquanto ![fantastic_mr_fox](https://user-images.githubusercontent.com/104612387/173539756-663d7056-27a7-44ba-904b-62939196c01c.gif)-->
 
