@@ -37,6 +37,9 @@
   <img align="center" alt="gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gui-JAVA" height="30" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="gui-ECLIPSE" height="30" widh="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/eclipse-icon.png" />
+  <img align="center" alt="gui-VSCODE" height="30" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
   <a href="https://youtu.be/ELqdLvz60zA" target="_blank"><img align="right" alt="mr-fox-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/857943585637924885/986212969732005888/Mrfox-59885efbd963ac0011d70a80.jpg"></a>
   
 </div>
