@@ -25,7 +25,7 @@
 <div align="center">
   <a href="https://github.com/guiviniciuss">
   
-  <img align="left" height="141em" src="https://github-readme-stats.vercel.app/api?username=guiviniciuss&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img align="" height="141em" src="https://github-readme-stats.vercel.app/api?username=guiviniciuss&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   
   <img align="" height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiviniciuss&layout=compact&langs_count=7&theme=darcula"/>
   
