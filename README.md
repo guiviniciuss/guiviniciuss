@@ -1,4 +1,4 @@
-<h2>Hey, welcome to my profile! I'm Guilherme Vinícius! I'm studying Information Technology and Web Development!</h2> 
+<h2>Hey, welcome to my profile! I'm Guilherme Vinicíus! I'm studying Web Development!</h2> 
 
 
 <img align="right" heigth="1300em" src="https://user-images.githubusercontent.com/104612387/173539756-663d7056-27a7-44ba-904b-62939196c01c.gif">
@@ -41,6 +41,7 @@
   <img align="center" alt="gui-JAVA" height="30" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="gui-ECLIPSE" height="30" widh="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/eclipse-icon.png" />
   <img align="center" alt="gui-VSCODE" height="30" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="gui-FIGMA" height="30" widh="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   
 </div>
   
