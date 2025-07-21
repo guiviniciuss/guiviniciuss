@@ -12,7 +12,7 @@
 <ul align="left">
   <li> ✝ I'm Christian</li>
   <li> 🔭 I’m currently working on IT Support</li>
-  <li> 🌱 I’m currently learning React <img align="center" alt="gui-REACT" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></li>
+  <!--<li> 🌱 I’m currently learning React <img align="center" alt="gui-REACT" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></li>-->
   <li> 📫 How to contact me: viniworks@hotmail.com</li>
   <li> ⚡ Fun fact: I love music and play bass</li>
 </ul>
